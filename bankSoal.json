@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "Berikut ini yang bukan faktor-faktor yang menyebabkan pulau Jawa dan Madura menjadi tempat pemusatan penduduk adalah….",
+    "options": [
+      "faktor luasnya lahan yang tersedia",
+      "faktor ekonomis",
+      "faktor geografi",
+      "faktor historis",
+      "faktor politik dan pemerintah"
+    ],
+    "answer": "faktor luasnya lahan yang tersedia"
+  },
+  {
+    "id": 2,
+    "question": "Pengertian dependency ratio adalah angka menunjukkan….",
+    "options": [
+      "jumlah penduduk yang menjadi beban bagi penduduk produktif dalam hal ekonomi",
+      "jumlah usia kerja",
+      "jumlah penduduk usia produktif",
+      "usia tua",
+      "jumlah penduduk yang menanggung penduduk usia muda dan usia tua"
+    ],
+    "answer": "jumlah penduduk yang menjadi beban bagi penduduk produktif dalam hal ekonomi"
+  },
+  {
+    "id": 3,
+    "question": "Transmigrasi yang dilaksanakan atas kemauan atau kehendak sendiri dengan biaya sendiri disebut transmigrasi….",
+    "options": [
+      "bedol rasa",
+      "umum",
+      "swakarya",
+      "spontan",
+      "sektoral"
+    ],
+    "answer": "spontan"
+  }
+]
